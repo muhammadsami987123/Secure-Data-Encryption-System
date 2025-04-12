@@ -65,4 +65,11 @@ A Streamlit-based secure data storage and retrieval system that uses strong encr
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
+
+## Creator
+
+- **Muhammad Sami**
+  - [GitHub](https://github.com/muhammadsami987123)
+  - [LinkedIn](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
+  - [X (Twitter)](https://x.com/MSAMIWASEEM1) 
